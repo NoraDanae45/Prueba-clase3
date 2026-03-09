@@ -1,0 +1,1 @@
+#Este archivo sirve para poner caracteristicas del archivo, tecnologías entre otras
